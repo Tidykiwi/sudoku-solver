@@ -1,0 +1,24 @@
+#puzzle {
+    width: 450px;
+    height: 450px;
+}
+
+#puzzle input {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border-spacing: 0;
+    border: 1px grey solid;
+}
+
+.odd-section {
+    background-color: lightgrey;
+}
+
+#solve-button {
+    background-color: coral;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}

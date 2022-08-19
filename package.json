@@ -1,0 +1,19 @@
+{
+  "name": "ak-sudoku-solver",
+  "version": "1.0.0",
+  "description": "A project to learn how to use APIs in JavaScript and NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start:backend": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ania Kubow",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
